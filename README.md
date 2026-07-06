@@ -11,7 +11,7 @@
 
 Le projet final HETIC, "Tech Race", vise à développer une application mobile permettant de contrôler un véhicule à distance via un réseau sans fil. L'application offre aux utilisateurs la possibilité de piloter le véhicule, d'accéder aux données de télémétrie en temps réel et de participer à des courses autonomes.
 
-Ce projet se compose de plusieurs repositories toutes hébergés sur Github : 
+Ce projet se compose de plusieurs repositories hébergés sur Github : 
 - [API Tech Race](https://github.com/NasssDev/Tech-Race)
 - [App Mobile](https://github.com/Hetic-Team/tech_race_8_2024)
 - [Programme de la voiture](https://github.com/ExploryKod/freenove_esp32_wrover)
