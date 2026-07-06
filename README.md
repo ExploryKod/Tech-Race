@@ -24,17 +24,12 @@ Ce projet se compose de plusieurs repositories toutes hébergés sur Github :
 - [Justin LELUC](https://github.com/Jykiin)
 
 ## Equipe frontend : 
+
+- [Amaury FRANSSEN](https://github.com/ExploryKod) 
 - [Reewaz Maskey](https://github.com/reewaz001)
 - [Alexandre VISAGE](https://github.com/Aleex470)
 - [Khalifa boubacar DIONE](https://github.com/khalifadione)
 - [Achraf CHARDOUDI](https://github.com/Achkey)
-
-Ce projet se compose de plusieurs repositories toutes hébergés sur Github :
-- [API Tech Race](https://github.com/NasssDev/Tech-Race)
-- [App Mobile](https://github.com/Hetic-Team/tech_race_8_2024)
-- [Site web de partage des vidéos](https://site-a-venir)
-- [Programme de la voiture](https://github.com/ExploryKod/freenove_esp32_wrover)
-- [Modèle de la voiture](https://www.amazon.fr/Freenove-ESP32-WROVER-Contained-Compatible-Expressions/dp/B08X6PTQFM/ref=sr_1_5?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1NFTVTE5M400B&dib=eyJ2IjoiMSJ9.ouyBflLDqHVkfViARMLD6Bn9gOI47kLGrM-5LMAbtJPAUgPogSQ1tQyH60VxNGSHTf-JIYDTkVL4RJ2a7-L92dQ5aqD8IliDd4MzLvffNmw65QxSItZh_qi-vPHXgzjBhvcW8Vy00EckrayFx_47OCj3W4K6Y1W0jHZgIDF7DAvRTI9XcC7oRK8T9xeUORe35q6RJ29TNUuhLCcN5fXl-WqLhsgNb2JA0XzHwnqwHaBBwj-xZ77ohEfVpUYfdyOMWf1wO01Fa42MzKl0b-UGD6PwYD-kBCJYQS3J9twWSGs.OrlAkZRIvlaYtQ2-9pywcADOLR7VY4iRx_9Ps1DkMnk&dib_tag=se&keywords=esp32+car&qid=1715602634&sprefix=esp+32+car,aps,125&sr=8-5)
 
 ## 🎯 Objectif
 
